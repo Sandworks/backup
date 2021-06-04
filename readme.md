@@ -38,11 +38,17 @@ Using this json file, we can run the script as shown:
 Here an example output from this script:
 
 **/backup# python backup.py device_list.json**
+
 **Username: admin**
+
 **password:**
+
 **Successfully backed up:  SWI01**
+
 **Successfully backed up:  SWI02**
+
 **Successfully backed up:  SWI03**
+
 **Task Completed.**
 
 ## Additional Notes:
