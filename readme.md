@@ -39,6 +39,8 @@ Here an example output from this script:
 
 ![Backup_Output](https://github.com/Sandworks/backup/blob/429501f402e6dcffbd1730e5f97d7fb66ccf4cf1/backup_output.png)
 
+## Additional Information
+
 You can change the backup directory, but changing this variable - BACKUP_DIR
 
 Enjoy!
