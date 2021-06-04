@@ -37,21 +37,7 @@ Using this json file, we can run the script as shown:
 
 Here an example output from this script:
 
-**/backup# python backup.py device_list.json**
-
-**Username: admin**
-
-**password:**
-
-**Successfully backed up:  SWI01**
-
-**Successfully backed up:  SWI02**
-
-**Successfully backed up:  SWI03**
-
-**Task Completed.**
-
-## Additional Notes:
+![Backup_Output](https://github.com/Sandworks/backup/blob/429501f402e6dcffbd1730e5f97d7fb66ccf4cf1/backup_output.png)
 
 You can change the backup directory, but changing this variable - BACKUP_DIR
 
